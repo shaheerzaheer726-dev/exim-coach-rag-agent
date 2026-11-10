@@ -48,7 +48,7 @@ The assistant has a custom personality defined in `system_prompt.txt`, streams i
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/shaheerzaheer726-dev/exim-coach-rag-agent.git
 cd YOUR-REPO-NAME
 ```
 
